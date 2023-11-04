@@ -9,7 +9,7 @@ const workboxPlugin = require("workbox-webpack-plugin")
 
 // TODO: Add CSS loaders and babel to webpack.
 
-const 
+
 
 module.exports = () => {
   return {
